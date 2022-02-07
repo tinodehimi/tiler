@@ -6,6 +6,7 @@ from tqdm import tqdm
 import math
 import conf
 
+# ajout
 # DEPTH = 4 -> 4 * 4 * 4 = 64 colors
 DEPTH = conf.DEPTH
 # list of rotations, in degrees, to apply over the original image
